@@ -1,0 +1,26 @@
+/* colors: #05c7f2,
+#05c1ea,
+#f2cb05,
+#f2b705,
+#f25c05 */
+body {
+    font-family: 'Press Start 2P', cursive;
+    background-color: #353131;
+    color: white
+}
+
+.jumbotron {
+    background-color: #f25c05
+}
+
+.modal-title {
+    color: #05c7f2
+}
+
+.modal-body {
+    color: #05c7f2
+}
+
+.modal-footer {
+    color: #05c1ea
+}
