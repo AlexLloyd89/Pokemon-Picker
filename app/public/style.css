@@ -5,22 +5,43 @@
 #f25c05 */
 body {
     font-family: 'Press Start 2P', cursive;
-    background-color: #353131;
-    color: white
+    background: url(https://images8.alphacoders.com/548/548142.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    background-color: #05c1ea;
+    background-blend-mode: color;
+}
+
+.overlay {
+    background-color: #000000d1;
+    min-height: -webkit-fill-available;
 }
 
 .jumbotron {
-    background-color: #f25c05
+    background-color: #717171;
+    border: 6px double;
+    border-radius: 20px;
+}
+
+.chosen-select {
+    margin-bottom: 20px;
+}
+
+#matchImg {
+    margin-left: 10%;
+    box-shadow: 1px 1px 1px black;
 }
 
 .modal-title {
-    color: #05c7f2
+    color: black
 }
 
 .modal-body {
-    color: #05c7f2
+    color: black
 }
 
 .modal-footer {
-    color: #05c1ea
+    color: black
 }

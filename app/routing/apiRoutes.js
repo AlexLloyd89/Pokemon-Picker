@@ -36,7 +36,8 @@ module.exports = function (app) {
             }
         }
         match = pokeData[bestMatch];
-        pokeData.push(newPokemon);
+        //below line would be useful for having a friend-finder application. Since I only want users to be able to select from 3 pre-defined Pokemon however, I'm leaving this part commented out.
+        // pokeData.push(newPokemon);
         res.json(match)
         console.log(newPokemon)
     });
