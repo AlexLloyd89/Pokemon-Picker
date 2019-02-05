@@ -1,4 +1,4 @@
-<a href="https://mighty-anchorage-59445.herokuapp.com/"><img src="https://dumielauxepices.net/sites/default/files/drawn-pokeball-green-567123-6351456.jpg" width="" height="" alt="Drawn Pokeball green 5 - 800 X 602" title="Drawn Pokeball green 5 - 800 X 602" />"></a>
+<a href="https://mighty-anchorage-59445.herokuapp.com/"><img src=https://dumielauxepices.net/sites/default/files/drawn-pokeball-green-567123-6351456.jpg"></a>
 
 
 # Pokemon Picker
