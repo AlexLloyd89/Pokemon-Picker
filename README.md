@@ -57,4 +57,4 @@ The Application uses the following algorithm to determine the correct starter Po
 - CSS
 - HTML
 
-***Short Gif Will Eventually Go Here***
+
