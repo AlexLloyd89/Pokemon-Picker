@@ -6,7 +6,7 @@
 
 > A short quiz that will determine which starter Pokemon is right for you
 
-> Please note there will be a short delay for launching the application through Heroku
+> Please note there will be a short delay when launching the application through Heroku
 
 > Pokemon, survey, full stack, Node, JavaScript, Express
 
