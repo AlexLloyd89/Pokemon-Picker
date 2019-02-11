@@ -42,7 +42,7 @@ The Application uses the following algorithm to determine the correct starter Po
             }
         }
         match = pokeData[bestMatch];
-        //below line would be useful for having a friend-finder application. Since I only want users to be able to select from 3 pre-defined Pokemon however, I'm leaving this part commented out.
+        //below line would push the user's answers into the Pokemon array. Since I only want users to be able to select from 3 pre-defined Pokemon however, I'm leaving this part commented out.
         // pokeData.push(newPokemon);
         res.json(match)
         console.log(newPokemon)
